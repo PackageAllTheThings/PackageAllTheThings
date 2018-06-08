@@ -34,4 +34,6 @@ COMING SOON -> http://www.packageallthethings.com  <- COMING SOON!
 ### Who Do I Talk To Regarding A Refund?
 nathan@pithy.tech
 
-https://www.linkedin.com/in/n8dgr8/
+https://www.linkedin.com/in/n8dgr8
+
+https://twitter.com/the_real_n8dgr8
