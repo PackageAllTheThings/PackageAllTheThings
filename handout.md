@@ -28,3 +28,9 @@ Given a version number **MAJOR.MINOR.PATCH**, increment the:
 |Configuration file|package.json|setup.py|.gemspec|pom.xml or build.gradle|.nuspec|
 |Useful links|https://docs.npmjs.com/getting-started/packages|https://packaging.python.org/|https://bundler.io/guides/creating_gem.html|https://central.sonatype.org/pages/ossrh-guide.html|https://docs.microsoft.com/en-us/nuget/create-packages/overview-and-workflow|
 
+### Some Other Links
+http://www.packageallthethings.com  <- COMING SOON!
+
+### How to Yell at n8
+mailto:nathan@pithy.tech
+https://www.linkedin.com/in/n8dgr8/
