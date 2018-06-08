@@ -29,8 +29,9 @@ Given a version number **MAJOR.MINOR.PATCH**, increment the:
 |Useful links|https://docs.npmjs.com/getting-started/packages|https://packaging.python.org/|https://bundler.io/guides/creating_gem.html|https://central.sonatype.org/pages/ossrh-guide.html|https://docs.microsoft.com/en-us/nuget/create-packages/overview-and-workflow|
 
 ### Some Other Links
-http://www.packageallthethings.com  <- COMING SOON!
+COMING SOON -> http://www.packageallthethings.com  <- COMING SOON!
 
-### How to Yell at n8
-mailto:nathan@pithy.tech
+### Who Do I Talk To Regarding A Refund?
+nathan@pithy.tech
+
 https://www.linkedin.com/in/n8dgr8/
